@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: >-
+  Analysis code for a longitudinal fNIRS dataset of cognitive workload in
+  laparoscopic training across a 24-hour clinical shift
+message: If you use this code, please cite both the software and the dataset.
+type: software
+authors:
+  - given-names: Edgar
+    family-names: Guevara
+    affiliation: >-
+      Coordinación para la Innovación y Aplicación de la Ciencia y la
+      Tecnología, Universidad Autónoma de San Luis Potosí, Mexico
+  - given-names: Gerardo Enrique
+    family-names: Torres Cuevas
+    affiliation: Asociación Mexicana de Cirugía General, Mexico City, Mexico
+  - given-names: Javier
+    family-names: Avalos Martínez
+    affiliation: Faculty of Science, Universidad Autónoma de San Luis Potosí, Mexico
+  - given-names: Eleazar Samuel
+    family-names: Kolosovas-Machuca
+    affiliation: >-
+      Coordinación para la Innovación y Aplicación de la Ciencia y la
+      Tecnología, Universidad Autónoma de San Luis Potosí, Mexico
+  - given-names: Mario Aurelio
+    family-names: Martínez-Jiménez
+    affiliation: >-
+      Department of Surgery, Faculty of Medicine, Universidad Autónoma de
+      San Luis Potosí, Mexico
+license: MIT
+repository-code: ''
+references:
+  - type: data
+    title: Resident physician mental workload assessed with fNIRS
+    doi: 10.5281/zenodo.15186569
+    authors:
+      - given-names: Gerardo Enrique
+        family-names: Torres-Cuevas
+      - given-names: Mario Aurelio
+        family-names: Martínez-Jiménez
+      - given-names: Edgar
+        family-names: Guevara
