@@ -1,6 +1,6 @@
 # Longitudinal fNIRS of cognitive workload in laparoscopic training across a 24-hour shift
 
-Analysis code for the Neurophotonics data descriptor **NPH-260108-1**,
+Analysis code for the Neurophotonics data descriptor,
 *A Longitudinal fNIRS Dataset of Cognitive Workload in Laparoscopic Training
 Across a 24-Hour Clinical Shift* (Guevara, Torres Cuevas, Avalos Martínez,
 Kolosovas-Machuca, Martínez-Jiménez).
